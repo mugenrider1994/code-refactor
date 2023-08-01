@@ -1,4 +1,10 @@
-# challenge1-html
+# code-refactor
+On-the-job ticket or feature request challenges give you starter code in a folder called Develop, which you'll modify to complete the challenge. Odd-numbered modules follow this format.
+
+User Story
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
 
 ## Description
